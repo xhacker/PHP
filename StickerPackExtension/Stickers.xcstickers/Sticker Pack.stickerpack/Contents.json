@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
   "stickers" : [
     {
       "filename" : "PHP.sticker"
@@ -14,13 +21,45 @@
     },
     {
       "filename" : "充电.sticker"
+    },
+    {
+      "filename" : "zh-xing.sticker"
+    },
+    {
+      "filename" : "zh-queshi.sticker"
+    },
+    {
+      "filename" : "zh-nobug.sticker"
+    },
+    {
+      "filename" : "我命由我不由天.sticker"
+    },
+    {
+      "filename" : "不要举报我.sticker"
+    },
+    {
+      "filename" : "小李子2.sticker"
+    },
+    {
+      "filename" : "小李子.sticker"
+    },
+    {
+      "filename" : "小李子3.sticker"
+    },
+    {
+      "filename" : "Cook 1.sticker"
+    },
+    {
+      "filename" : "Cook 2.sticker"
+    },
+    {
+      "filename" : "Craig.sticker"
+    },
+    {
+      "filename" : "WallStreetBets.sticker"
+    },
+    {
+      "filename" : "WSB.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
